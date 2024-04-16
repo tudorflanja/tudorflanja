@@ -6,6 +6,10 @@
 
 • ✉️ You can contact me at tudorflanja@gmail.com
 
+Skills
+
+CC++JavaJavaScriptPythonReactNodeJSMySQLPostgreSQLBlenderLinux
+
 <!--
 **tudorflanja/tudorflanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

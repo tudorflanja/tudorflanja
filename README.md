@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+✌️ I am keen on working on things that help me grow and improve myself in the domains that I am passionate about. I want to learn new things from every experience I get, so my priority is to learn new things in IT and apply those things.
+
 • 🌍 I'm based in Romania
 
 • ✉️ You can contact me at tudorflanja@gmail.com

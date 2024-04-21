@@ -4,8 +4,9 @@
 
 • 🌍 I'm based in Romania
 
-• ✉️ You can contact me at tudorflanja@gmail.com
+• 👨🏼‍🎓 Student at Technical University of Cluj-Napoca, studying Computer Science.
 
+• ✉️ You can contact me at tudorflanja@gmail.com
 <!--
 **tudorflanja/tudorflanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

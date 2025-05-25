@@ -4,7 +4,7 @@
 
 • 🌍 I'm based in Romania
 
-• 👨🏼‍🎓 Student at Technical University of Cluj-Napoca, studying Computer Science.
+• 👨🏼‍🎓 Student at Technical University of Cluj-Napoca, studying Computer Science-English.
 
 • ✉️ You can contact me at tudorflanja@gmail.com
 

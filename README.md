@@ -1,24 +1,19 @@
-### Hi there 👋
+### 👋 Hello and welcome!
 
-✌️ I am keen on working on things that help me grow and improve myself in the domains that I am passionate about. I want to learn new things from every experience I get, so my priority is to learn new things in IT and apply those things.
+I'm Tudor Flanja — a Computer Science student at the Technical University of Cluj-Napoca (English section), passionate about software engineering, DevOps, and data-driven systems.
 
-• 🌍 I'm based in Romania
+I’m always eager to learn, build, and improve. Whether I’m working on a university project, contributing to open source, or exploring a new tech stack, my goal is to grow with every experience.
 
-• 👨🏼‍🎓 Student at Technical University of Cluj-Napoca, studying Computer Science-English.
+---
 
-• ✉️ You can contact me at tudorflanja@gmail.com
+🌍 **Location:** Romania  
+🎓 **Education:** BSc in Computer Science (English), TUCN  
+💻 **Interests:** DevOps, backend systems, cloud infrastructure, automation, and software testing  
+📫 **Reach me at:** [tudorflanja@gmail.com](mailto:tudorflanja@gmail.com)
 
-<!--
-**tudorflanja/tudorflanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔧 **Current Tech Stack:**  
+Kotlin · Python · JavaScript · Spring Boot · Docker · Git · PostgreSQL · MongoDB · GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Check out my pinned repositories below to see what I’ve been working on!

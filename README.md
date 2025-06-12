@@ -8,7 +8,7 @@ I’m always eager to learn, build, and improve. Whether I’m working on a univ
 
 🌍 **Location:** Romania  
 🎓 **Education:** BSc in Computer Science (English), TUCN — currently in my final year  
-💻 **Interests:** DevOps, Python programming, cloud infrastructure, automation, software testing, and building data-driven workflows in Google Colab 
+💻 **Interests:** DevOps, Python programming, cloud infrastructure, automation, software testing, and building data-driven workflows in Google Colab
 📫 **Reach me at:** [tudorflanja@gmail.com](mailto:tudorflanja@gmail.com)
 
 ---

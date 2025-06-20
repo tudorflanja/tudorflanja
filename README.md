@@ -8,7 +8,7 @@ With hands-on experience in Python development, cloud tooling, and machine learn
 
 🌍 **Location:** Cluj-Napoca, Romania  
 🎓 **Education:** BSc in Computer Science (English), TUCN — expected 2025  
-💻 **Interests:** DevOps · CI/CD · automation · containerization · system architecture · software testing · cloud infrastructure · ML in Google Colab  
+💻 **Interests:** DevOps · CI/CD · automation · containerization · system architecture · software testing · agile workflows · cloud infrastructure · ML in Google Colab  
 📧 **Email:** [tudorflanja@gmail.com](mailto:tudorflanja@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/tudor-flanja-36a972301](https://linkedin.com/in/tudor-flanja-36a972301)  
 🐙 **GitHub:** [github.com/tudorflanja](https://github.com/tudorflanja)
@@ -23,14 +23,14 @@ With hands-on experience in Python development, cloud tooling, and machine learn
 - **Other:** Typo3 CMS · MindMup · MATLAB · Blender  
 - **OS:** Ubuntu · Linux CLI · Windows
 
-🧪 **Software Testing & Practices**  
-Exploratory · Unit · Integration · Smoke · Sanity · Performance · UAT · Black-box · White-box · Experience-based  
+🧪 **Software Testing & Development Practices**  
+Agile · Exploratory · Unit · Integration · Smoke · Sanity · Performance · UAT · Black-box · White-box · Experience-based  
 CI/CD · Git branching models · Secure form validation · OOP & Functional Programming · Postman
 
 📜 **Certifications (2025)**  
 **KodeKloud:** Docker · Kubernetes · Terraform · Jenkins · Ansible · Git · Python · Linux · 12-Factor App  
 **Udemy:** Software Testing 101  
-**LinkedIn Learning:** Exploratory Testing · Test Techniques
+**LinkedIn Learning:** Exploratory Testing · Test Techniques · Agile Testing
 
 ---
 

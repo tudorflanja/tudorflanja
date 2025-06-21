@@ -2,9 +2,9 @@
 
 🎯 **Aspiring QA Engineer** · **DevOps Enthusiast** · **Python Developer**
 
-I'm **Tudor-Calin Flanja**, a final-year Computer Science student at the Technical University of Cluj-Napoca (English section), passionate about **automated testing**, **infrastructure as code**, and **building resilient systems**.
+I'm **Tudor-Calin Flanja**, a final-year Computer Science student at the Technical University of Cluj-Napoca (English section), passionate about **automated testing**, **infrastructure as code**, and **building reliable, scalable systems**.
 
-With a strong foundation in **Python development**, QA methodologies, and DevOps tooling, I thrive at the intersection of **code quality, continuous delivery, and automation**. I’ve completed over 10 industry-recognized certifications in technologies like **Docker, Kubernetes, Terraform, Jenkins, Ansible**, and **modern software testing strategies**.
+With a strong foundation in **Python development**, QA methodologies, and DevOps tooling, I enjoy solving complex problems at the intersection of **quality assurance**, **automation**, and **cloud infrastructure**. I’ve completed over 10 industry-recognized certifications in technologies like **Docker, Kubernetes, Terraform, Jenkins, Ansible**, and **modern software testing strategies**.
 
 ---
 
@@ -21,17 +21,17 @@ With a strong foundation in **Python development**, QA methodologies, and DevOps
 - **Languages:** Python · Kotlin · C/C++ · Go · Bash · JavaScript · HTML/CSS  
 - **DevOps & Infrastructure:** Docker · Kubernetes · Terraform · Jenkins · Ansible · Git · GitHub Actions  
 - **Databases:** PostgreSQL · MongoDB · DataGrip  
-- **Testing & QA Tools:** Postman · PyTest · Manual & Exploratory Testing · Agile Test Techniques · CI-integrated testing · Black-box/White-box strategies  
+- **Testing & QA Tools:** Postman · PyTest · Selenium · Manual & Exploratory Testing · Agile Test Techniques · JMeter · CI-integrated testing  
 - **IDEs & Productivity:** VS Code · IntelliJ · PyCharm · Cisco Packet Tracer · Google Colab · Overleaf · VirtualBox  
-- **Other:** Typo3 CMS · MindMup · MATLAB · Blender  
+- **Other:** Typo3 CMS · MATLAB · Blender · MindMup  
 - **Operating Systems:** Ubuntu · Linux CLI · Windows
 
 ---
 
 ### 🧪 Software Testing & Engineering Practices
-- Agile · Exploratory · Unit · Integration · Smoke · Sanity · Regression · Performance · UAT  
-- Manual & Automated Testing · Functional/Non-functional Testing · API Testing · Secure form validation  
-- CI/CD Pipelines · Git branching models · OOP & Functional Programming
+- **Test Types:** Agile · Unit · Integration · Smoke · Sanity · Regression · Performance · UAT · Black-box · White-box  
+- **Techniques:** Manual & Automated Testing · Functional/Non-functional Testing · API Testing · Infrastructure Testing  
+- **Dev Practices:** CI/CD Pipelines · Gitflow · Secure form validation · OOP · Functional Programming
 
 ---
 
@@ -43,20 +43,21 @@ Docker · Kubernetes · Terraform · Jenkins · Ansible · Git · Python · Linu
 Software Testing 101
 
 **LinkedIn Learning:**  
-Exploratory Testing · Test Techniques · Agile Testing · Software Testing Tools Review
+Exploratory Testing · Test Techniques · Agile Testing · Testing Tools Survey · Test Preparation
 
 ---
 
 ### 🎯 Career Goals
-I’m currently seeking opportunities as a **QA Engineer**, **Test Automation Analyst**, or **DevOps Intern**. I’m eager to apply my technical skills and training in real-world environments where code quality, scalability, and automation are key.
+I’m actively seeking opportunities as a **QA Engineer**, **Test Automation Analyst**, or **DevOps Intern**. I’m eager to contribute to high-quality software delivery through **testing excellence**, **automation**, and **collaborative agile development**.
 
 ---
 
-### 📁 Pinned Project
+### 📁 Featured Project
 - 🧠 **Brain Tumor Classification using CNN (MRI)**  
   [github.com/tudorflanja/brain-tumor-classification](https://github.com/tudorflanja/brain-tumor-classification)  
-  End-to-end PyTorch ML pipeline for MRI image classification, with preprocessing (CLAHE, Sobel, brightness), CNN modeling, evaluation metrics, and PDF documentation.
+  End-to-end PyTorch pipeline for classifying brain tumors from MRI scans. Includes preprocessing (CLAHE, Sobel, brightness), CNN model training, evaluation metrics, and structured PDF documentation.
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories or get in touch — I’m always open to collaboration, code reviews, or new learning opportunities.
+Thanks for stopping by!  
+Let’s connect — I'm open to contributing, code reviews, and any opportunity to grow through hands-on experience.

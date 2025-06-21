@@ -13,7 +13,6 @@ With a strong foundation in **Python development**, QA methodologies, and DevOps
 💡 **Interests:** QA · CI/CD · Test Automation · DevOps · Agile Workflows · Cloud Infrastructure · Machine Learning in Google Colab  
 📧 **Email:** [tudorflanja@gmail.com](mailto:tudorflanja@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/tudor-flanja-36a972301](https://linkedin.com/in/tudor-flanja-36a972301)  
-🐙 **GitHub:** [github.com/tudorflanja](https://github.com/tudorflanja)
 
 ---
 

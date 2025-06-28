@@ -52,12 +52,5 @@ I’m motivated by hands-on work, continuous learning, and contributing to high-
 
 ---
 
-### 🌟 Highlight Project
-🦴 **Ball-Throwing Device for Animals (Arduino)**  
-[github.com/tudorflanja/ball-thrower-arduino](https://github.com/tudorflanja/ball-thrower-arduino)  
-C++ logic for an interactive device using ultrasonic sensors, servos, and LEDs to engage pets. Full documentation and future upgrade roadmap included.
-
----
-
 Thanks for stopping by!  
 Let's connect — I'm open to internships, contributions, and learning opportunities 🙌

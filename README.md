@@ -1,62 +1,64 @@
-### 👋 Hello and welcome!
+### 👋 Welcome to my GitHub!
 
-🎯 **Aspiring QA Engineer** · **DevOps Enthusiast** · **Python Developer**
+🎯 **Aspiring QA Engineer** · **DevOps Enthusiast** · **Python & Arduino Builder**
 
-I'm **Tudor-Calin Flanja**, a final-year Computer Science student at the Technical University of Cluj-Napoca (English section), passionate about **automated testing**, **infrastructure as code**, and **building reliable, scalable systems**.
-
-With a strong foundation in **Python development**, QA methodologies, and DevOps tooling, I enjoy solving complex problems at the intersection of **quality assurance**, **automation**, and **cloud infrastructure**. I’ve completed over 10 industry-recognized certifications in technologies like **Docker, Kubernetes, Terraform, Jenkins, Ansible**, and **modern software testing strategies**.
+I'm **Tudor-Calin Flanja**, a final-year Computer Science student at the Technical University of Cluj-Napoca (English section), passionate about **software testing**, **test automation**, and **DevOps tools**. I enjoy applying my skills to create reliable systems, automate testing pipelines, and document clear, maintainable solutions.
 
 ---
 
-🌍 **Location:** Cluj-Napoca, Romania  
-🎓 **Education:** BSc in Computer Science (English), TUCN — expected 2025  
-💡 **Interests:** QA · CI/CD · Test Automation · DevOps · Agile Workflows · Cloud Infrastructure · Machine Learning in Google Colab  
+🧑‍🎓 **Education:** BSc in Computer Science @ TUCN · Cluj-Napoca · Expected 2025  
+📍 **Location:** Romania (Cluj-Napoca & Tg. Mureș)  
 📧 **Email:** [tudorflanja@gmail.com](mailto:tudorflanja@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/tudor-flanja-36a972301](https://linkedin.com/in/tudor-flanja-36a972301)  
+💼 **Portfolio project:** [Ball Throwing Device for Animals](https://github.com/tudorflanja/ball-thrower-arduino)
 
 ---
 
 ### 🔧 Tech Stack & Tools
-- **Languages:** Python · Kotlin · C/C++ · Go · Bash · JavaScript · HTML/CSS  
-- **DevOps & Infrastructure:** Docker · Kubernetes · Terraform · Jenkins · Ansible · Git · GitHub Actions  
+- **Languages:** Python · C/C++ · Bash · Java  
+- **Testing & QA:** Manual & Exploratory Testing · Postman · PyTest · Agile Test Strategies · CI-integrated Testing  
+- **DevOps & Infrastructure:** Docker · Kubernetes · Terraform · Jenkins · Ansible · Git · GitHub  
 - **Databases:** PostgreSQL · MongoDB · DataGrip  
-- **Testing & QA Tools:** Postman · PyTest · Selenium · Manual & Exploratory Testing · Agile Test Techniques · JMeter · CI-integrated testing  
-- **IDEs & Productivity:** VS Code · IntelliJ · PyCharm · Cisco Packet Tracer · Google Colab · Overleaf · VirtualBox  
-- **Other:** Typo3 CMS · MATLAB · Blender · MindMup  
-- **Operating Systems:** Ubuntu · Linux CLI · Windows
+- **Productivity:** Google Colab · VS Code · IntelliJ · Cisco Packet Tracer · VirtualBox · Typo3 CMS  
+- **OS:** Ubuntu · Linux CLI · Windows
 
 ---
 
-### 🧪 Software Testing & Engineering Practices
-- **Test Types:** Agile · Unit · Integration · Smoke · Sanity · Regression · Performance · UAT · Black-box · White-box  
-- **Techniques:** Manual & Automated Testing · Functional/Non-functional Testing · API Testing · Infrastructure Testing  
-- **Dev Practices:** CI/CD Pipelines · Gitflow · Secure form validation · OOP · Functional Programming
+### 🧪 Software Testing Concepts
+- **Test Types:** Unit · Integration · Regression · Smoke · Sanity · E2E · Performance · UAT · Black-box · White-box  
+- **Practices:** Manual Testing · Agile Testing · Risk-Based Testing · API Testing · Infrastructure Testing · Experience-Based Testing  
+- **Other Exposure:** Test Planning · CI/CD Workflows · Secure Form Validation · Basic Automation (Arduino & Python)
 
 ---
 
 ### 📜 Certifications (2025)
 **KodeKloud:**  
-Docker · Kubernetes · Terraform · Jenkins · Ansible · Git · Python · Linux · 12-Factor App
+✅ Docker · Kubernetes · Terraform · Jenkins · Ansible · Git · Python · Linux · 12-Factor App  
 
 **Udemy:**  
-Software Testing 101
+✅ Software Testing 101  
 
 **LinkedIn Learning:**  
-Exploratory Testing · Test Techniques · Agile Testing · Testing Tools Survey · Test Preparation
+✅ Test Preparation · Test Techniques · Testing Tools · Exploratory Testing · Agile Testing  
 
 ---
 
-### 🎯 Career Goals
-I’m actively seeking opportunities as a **QA Engineer**, **Test Automation Analyst**, or **DevOps Intern**. I’m eager to contribute to high-quality software delivery through **testing excellence**, **automation**, and **collaborative agile development**.
+### 🚀 Career Interests
+Actively looking for opportunities in:
+- **QA Engineering (Manual/Automated)**
+- **Test Analyst / Test Automation Intern**
+- **DevOps Internships (CI/CD pipelines, IaC tools)**
+
+I’m motivated by hands-on work, continuous learning, and contributing to high-quality software through **testing excellence**, **automation**, and **collaborative workflows**.
 
 ---
 
-### 📁 Featured Project
-- 🧠 **Brain Tumor Classification using CNN (MRI)**  
-  [github.com/tudorflanja/brain-tumor-classification](https://github.com/tudorflanja/brain-tumor-classification)  
-  End-to-end PyTorch pipeline for classifying brain tumors from MRI scans. Includes preprocessing (CLAHE, Sobel, brightness), CNN model training, evaluation metrics, and structured PDF documentation.
+### 🌟 Highlight Project
+🦴 **Ball-Throwing Device for Animals (Arduino)**  
+[github.com/tudorflanja/ball-thrower-arduino](https://github.com/tudorflanja/ball-thrower-arduino)  
+C++ logic for an interactive device using ultrasonic sensors, servos, and LEDs to engage pets. Full documentation and future upgrade roadmap included.
 
 ---
 
 Thanks for stopping by!  
-Let’s connect — I'm open to contributing, code reviews, and any opportunity to grow through hands-on experience.
+Let's connect — I'm open to internships, contributions, and learning opportunities 🙌

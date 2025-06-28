@@ -10,7 +10,6 @@ I'm **Tudor-Calin Flanja**, a final-year Computer Science student at the Technic
 📍 **Location:** Romania (Cluj-Napoca & Tg. Mures)  
 📧 **Email:** [tudorflanja@gmail.com](mailto:tudorflanja@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/tudor-flanja-36a972301](https://linkedin.com/in/tudor-flanja-36a972301)  
-💼 **Portfolio project:** [Ball Throwing Device for Animals](https://github.com/tudorflanja/ball-thrower-arduino)
 
 ---
 

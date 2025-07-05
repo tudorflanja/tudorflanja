@@ -7,7 +7,7 @@ I'm **Tudor-Calin Flanja**, a final-year Computer Science student at the Technic
 ---
 
 🧑‍🎓 **Education:** BSc in Computer Science @ TUCN · Cluj-Napoca · Expected 2025  
-📍 **Location:** Romania – Cluj-Napoca & Tg. Mureș  
+📍 **Location:** Romania – Cluj-Napoca & Tg. Mures  
 📧 **Email:** [tudorflanja@gmail.com](mailto:tudorflanja@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/tudor-flanja-36a972301](https://linkedin.com/in/tudor-flanja-36a972301)  
 

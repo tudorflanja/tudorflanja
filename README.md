@@ -1,6 +1,6 @@
 ### 👋 Welcome to my GitHub!
 
-🎯 **Aspiring QA Engineer** · **DevOps Learner** · **Python & Arduino Enthusiast**
+🎯 **Aspiring Data/QA Engineer** · **DevOps Learner** · **Python & Arduino Enthusiast**
 
 I'm **Tudor-Calin Flanja**, a final-year Computer Science student at the Technical University of Cluj-Napoca (English program), passionate about **software testing**, **test automation**, and **DevOps tools**. I enjoy building reliable systems, automating testing workflows, and writing clean, maintainable code backed by solid documentation.
 
@@ -42,17 +42,6 @@ I'm **Tudor-Calin Flanja**, a final-year Computer Science student at the Technic
 
 **LinkedIn Learning:**  
 ✅ Test Preparation · Test Techniques · Testing Tools · Exploratory Testing · Agile Testing  
-
----
-
-### 🚀 Career Interests
-
-I’m actively seeking internship or entry-level roles in:
-- **QA Engineering** (Manual or Automated Testing)  
-- **Test Automation / SDET Internships**  
-- **DevOps Internships** (focused on CI/CD pipelines, infrastructure as code, containerization)
-
-Driven by **precision**, **continuous learning**, and a desire to contribute to high-quality, testable, and scalable systems.
 
 ---
 

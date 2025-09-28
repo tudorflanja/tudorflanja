@@ -13,7 +13,7 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 ### 🔧 Tech Stack & Tools
 
 - **Languages:** Python · C · C++ · Bash · Java  
-- **QA & Testing:** Manual Testing · Exploratory Testing · API Testing (Postman) · Agile Test Strategies · PyTest · Basic Test Automation  
+- **QA & Testing:** Manual Testing · Exploratory Testing · API Testing (Postman) · Agile Test Strategies
 - **Databases:** PostgreSQL · MongoDB  
 - **Operating Systems:** Linux (Ubuntu, CLI) · Windows  
 

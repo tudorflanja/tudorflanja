@@ -26,4 +26,11 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
   
 ---
 
+### 🌍 Languages
+
+- **Romanian:** Native  
+- **English:** C1 Advanced (Cambridge CAE, Grade B, Score: 195)
+
+---
+
 Open to **internships, collaborative projects, and learning opportunities** in **Software Testing and DevOps**.

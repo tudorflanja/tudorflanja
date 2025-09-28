@@ -10,7 +10,7 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🔧 Tech Stack
 
 - **Languages:** Python · C · C++ · Bash · Java  
 - **QA & Testing:** Manual Testing · API Testing (Postman)

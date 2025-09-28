@@ -23,8 +23,7 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 ### 🧪 Software Testing Exposure
 
 - **Test Types:** Unit · Integration · Regression · Smoke · Sanity · E2E · Performance · UAT · Black-box · White-box  
-- **Techniques:** Agile Testing · Risk-Based Testing · Experience-Based Testing · Infrastructure & API Testing  
-- **Other Skills:** Test Planning · Secure Form Validation · Scripting in Python · Testing Arduino-based systems  
+- **Techniques:** Agile Testing · Risk-Based Testing · Experience-Based Testing · Infrastructure & API Testing   
 
 ---
 

@@ -14,9 +14,8 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 
 - **Languages:** Python · C · C++ · Bash · Java  
 - **QA & Testing:** Manual Testing · Exploratory Testing · API Testing (Postman) · Agile Test Strategies · PyTest · Basic Test Automation  
-- **DevOps & CI/CD:** Docker · Kubernetes · Terraform · Jenkins · Ansible · Git/GitHub · CI-integrated workflows  
-- **Productivity & IDEs:** Google Colab · VS Code · IntelliJ · PyCharm · VirtualBox · Typo3 CMS · Cisco Packet Tracer  
-- **Databases:** PostgreSQL · MongoDB · DataGrip  
+- **DevOps & CI/CD:** Docker · Kubernetes · Terraform · Jenkins · Ansible · Git/GitHub · CI-integrated workflows 
+- **Databases:** PostgreSQL · MongoDB  
 - **Operating Systems:** Ubuntu · Linux CLI · Windows  
 
 ---

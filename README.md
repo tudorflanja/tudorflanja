@@ -28,15 +28,10 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 
 ### 📜 Certifications (2025 · Theoretical Knowledge)
 
-**KodeKloud:**  
-✅ Docker · Kubernetes · Terraform · Jenkins · Ansible · Git · Python · Linux · 12-Factor App  
-
-**Udemy:**  
-✅ Software Testing 101  
-
-**LinkedIn Learning:**  
-✅ Test Preparation · Test Techniques · Testing Tools · Exploratory Testing · Agile Testing  
-
+- **KodeKloud:** Docker, Kubernetes, Terraform, Jenkins, Ansible, Git, Python, Linux, 12-Factor App  
+- **Udemy:** Software Testing 101  
+- **LinkedIn Learning:** Test Preparation, Test Techniques, Testing Tools, Exploratory Testing, Agile Testing
+  
 ---
 
 Open to **internships, collaborative projects, and learning opportunities** in **Software Testing and DevOps**.

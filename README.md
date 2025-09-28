@@ -4,7 +4,7 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 
 ---
 
-📍 **Location:** Tg. Mures - Romania  
+📍 **Location:** Tg. Mures, Romania  
 📧 **Email:** [tudorflanja@gmail.com](mailto:tudorflanja@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/tudor-flanja-36a972301](https://linkedin.com/in/tudor-flanja-36a972301)  
 
@@ -39,5 +39,4 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 
 ---
 
-Thanks for stopping by!  
-Feel free to connect — I'm open to internships, learning opportunities, and collaborative projects 🙌
+Open to **internships, collaborative projects, and learning opportunities** in **Software Testing and DevOps**.

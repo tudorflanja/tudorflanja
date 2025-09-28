@@ -13,7 +13,7 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 ### 🔧 Tech Stack & Tools
 
 - **Languages:** Python · C · C++ · Bash · Java  
-- **QA & Testing:** Manual Testing · Exploratory Testing · API Testing (Postman) · Agile Test Strategies
+- **QA & Testing:** Manual Testing · API Testing (Postman)
 - **Databases:** PostgreSQL · MongoDB  
 - **Operating Systems:** Linux (Ubuntu, CLI) · Windows  
 
@@ -22,7 +22,7 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 ### 🧪 Software Testing Exposure
 
 - **Test Types:** Unit · Integration · Regression · Smoke · Sanity · E2E · Performance · UAT · Black-box · White-box  
-- **Techniques:** Agile Testing · Risk-Based Testing · Experience-Based Testing · Infrastructure & API Testing   
+- **Techniques:** Risk-Based Testing · Experience-Based Testing · Infrastructure & API Testing   
 
 ---
 

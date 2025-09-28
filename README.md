@@ -1,6 +1,6 @@
 ### 👋 Welcome to my GitHub!
 
-🎯 **Aspiring QA Engineer** · **DevOps Learner** 
+🎯 **Aspiring QA Engineer**
 
 I'm **Tudor-Calin Flanja**, a student passionate about **software testing**, **test automation**, and **DevOps tools**. I enjoy building reliable systems, automating testing workflows, and writing clean, maintainable code backed by solid documentation.
 

@@ -12,7 +12,7 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 
 ### 🔧 Tech Stack
 
-- **Languages:** Python · C · C++ · Bash · Java  
+- **Languages:** Python · C · C++ · Java  
 - **Databases:** PostgreSQL · MongoDB  
 
 ---

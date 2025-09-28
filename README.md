@@ -4,11 +4,6 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 
 ---
 
-📍 **Location:** Targu Mures, Romania  
-🔗 **LinkedIn:** [linkedin.com/in/tudor-flanja-36a972301](https://linkedin.com/in/tudor-flanja-36a972301)  
-
----
-
 ### 🔧 Tech Stack
 
 - **Languages:** Python · C · C++ · Java  

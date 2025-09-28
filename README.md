@@ -1,6 +1,6 @@
 ### 👋 Welcome to my GitHub!
 
-I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testing**, **test automation**, and **DevOps tools**.
+I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testing** and **DevOps tools**.
 
 ---
 

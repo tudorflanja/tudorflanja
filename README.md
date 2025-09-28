@@ -13,7 +13,6 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 ### 🔧 Tech Stack
 
 - **Languages:** Python · C · C++ · Bash · Java  
-- **QA & Testing:** API Testing (Postman)
 - **Databases:** PostgreSQL · MongoDB  
 
 ---
@@ -21,7 +20,7 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 ### 🧪 Testing Knowledge
 
 - **Test Types:** Manual · Unit · Integration · Regression · Smoke · Sanity · End-to-End · Performance · UAT · Black-box · White-box  
-- **Techniques:** Risk-Based Testing · Experience-Based Testing · Infrastructure & API Testing   
+- **Techniques:** Risk-Based Testing · Experience-Based Testing · Infrastructure & API Testing (Postman)   
 
 ---
 

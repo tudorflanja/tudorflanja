@@ -15,7 +15,6 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 - **Languages:** Python · C · C++ · Bash · Java  
 - **QA & Testing:** Manual Testing · API Testing (Postman)
 - **Databases:** PostgreSQL · MongoDB  
-- **Operating Systems:** Linux (Ubuntu, CLI) · Windows  
 
 ---
 
@@ -34,4 +33,4 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
   
 ---
 
-Seeking **internships, collaborative projects, and learning opportunities** to further develop skills in **Software Testing and DevOps**.
+Open to **internships, collaborative projects, and learning opportunities** in **Software Testing and DevOps**.

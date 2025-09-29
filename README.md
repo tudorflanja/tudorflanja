@@ -33,4 +33,4 @@ I'm **Tudor-Calin Flanja**, a student with a strong interest in **software testi
 
 ---
 
-Open to **internships, collaborative projects, and learning opportunities** in **Software Testing and DevOps**.
+Open to **internships, collaborative projects, and learning opportunities**.

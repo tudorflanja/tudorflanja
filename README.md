@@ -1,7 +1,6 @@
 ### 👋 Welcome to my GitHub!
 
-I’m **Tudor-Calin Flanja**, a student in **Automation and Applied Computer Science (Engineering)**, passionate about **Software Testing** and **DevOps tools**.  
-Enthusiastic about **Agile development** and **automation**, I combine **analytical thinking**, **adaptability**, and **collaboration** with the ability to **learn fast and deliver on deadlines**.
+I’m **Tudor-Calin Flanja**, a student in **Automation and Applied Computer Science (Engineering)**, passionate about **Software Testing** and **DevOps tools**.
 
 ---
 
@@ -36,14 +35,7 @@ Enthusiastic about **Agile development** and **automation**, I combine **analyti
 
 ### 🤝 Soft Skills
 
-- Problem-Solving  
-- Analytical Thinking  
-- Attention to Detail  
-- Communication  
-- Teamwork  
-- Time Management  
-- Adaptability  
-- Agile Mindset 
+- Problem-Solving · Analytical Thinking · Attention to Detail · Communication · Teamwork · Time Management · Adaptability · Agile Mindset 
 
 ---
 

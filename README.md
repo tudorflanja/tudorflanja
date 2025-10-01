@@ -6,7 +6,7 @@ I’m **Tudor-Calin Flanja**, a student in **Automation and Applied Computer Sci
 
 ### 🔧 Tech Stack
 
-- **Languages:** Python · C · C++ · Java
+- **Languages:** C · C++ · Java · Python
 - **Programming Paradigms:** Object-Oriented Programming (OOP)
 
 ---

@@ -34,4 +34,17 @@ Enthusiastic about **Agile development** and **automation**, I combine **analyti
 
 ---
 
+### 🤝 Soft Skills
+
+- Problem-Solving  
+- Analytical Thinking  
+- Attention to Detail  
+- Communication  
+- Teamwork  
+- Time Management  
+- Adaptability  
+- Agile Mindset 
+
+---
+
 ✨ Open to **internships, collaborative projects, and learning opportunities**.

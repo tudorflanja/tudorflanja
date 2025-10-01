@@ -34,4 +34,4 @@ Enthusiastic about **Agile development** and **automation**, I combine **analyti
 
 ---
 
-Open to **internships, collaborative projects, and learning opportunities**.
+✨ Open to **internships, collaborative projects, and learning opportunities**.

@@ -1,8 +1,7 @@
 ### 👋 Welcome to my GitHub!
 
-I'm **Tudor-Calin Flanja**, a student in **Automation and Applied Computer Science (Engineering)** with a strong interest in **Software Testing** and **DevOps tools**.  
-Enthusiastic about **Agile development**, **automation**, and turning **data into insights**.  
-Analytical, adaptable, and collaborative — with a proven ability to **learn fast and deliver on deadlines**.
+I’m **Tudor-Calin Flanja**, a student in **Automation and Applied Computer Science (Engineering)**, passionate about **Software Testing** and **DevOps tools**.  
+Enthusiastic about **Agile development** and **automation**, I combine **analytical thinking**, **adaptability**, and **collaboration** with the ability to **learn fast and deliver on deadlines**.
 
 ---
 

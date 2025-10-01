@@ -7,6 +7,7 @@ I’m **Tudor-Calin Flanja**, a student in **Automation and Applied Computer Sci
 ### 🔧 Tech Stack
 
 - **Languages:** Python · C · C++ · Java  
+- **Programming Paradigms:** Object-Oriented Programming (OOP)
 - **Databases:** PostgreSQL · MongoDB  
 
 ---

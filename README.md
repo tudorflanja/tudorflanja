@@ -14,7 +14,7 @@ Enthusiastic about **Agile development** and **automation**, I combine **analyti
 
 ### 🧪 Testing Knowledge
 
-- **Test Types:** Manual · Unit · Integration · Regression · Smoke · Sanity · End-to-End · Performance · UAT · Black-box · White-box · Load
+- **Test Types:** Manual · Automated · Unit · Integration · Regression · Smoke · Sanity · End-to-End · Performance · UAT · Black-box · White-box · Load
 - **Techniques:** Risk-Based Testing · Experience-Based Testing · Infrastructure & API Testing (Postman)   
 
 ---
